@@ -1,0 +1,41 @@
+## Build and Output directories
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+SalesPurchaseManagement/bin/
+SalesPurchaseManagement/obj/
+
+## IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.*~
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+## Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Logs and diagnostics
+*.log
+*.crash
+crashdump/
+
+## Test / Coverage results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
